@@ -27,6 +27,11 @@ automatically updated through GitHub after each push.
 
 ---
 
+## 🌍 Live Website
+[🔗 Click here to visit](https://shahar-rushetzky.onrender.com)
+
+---
+
 ## **Author**
 **Shahar Rushetzky**  
 📧 [sroshetzky@gmail.com]  
